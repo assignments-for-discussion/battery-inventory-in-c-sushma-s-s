@@ -25,5 +25,6 @@ void testBucketingByNumberOfCycles() {
 
 int main() {
   testBucketingByNumberOfCycles();
+  printf("Number of battery=%d",numberOfBatteries);
   return 0;
 }
